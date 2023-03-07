@@ -1,5 +1,5 @@
-### Stats220 Repository Eli Chandler
-# Purpose of this repository
+# Stats220 Repository Eli Chandler
+### Purpose of this repository
 The purpose of this repository is for a Project for my **stats 220** Course.
 
 In this repository I will demonstrate some basic knowledge of:
